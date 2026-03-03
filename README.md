@@ -14,3 +14,9 @@
 - **abcdefgh.ipynb**  
   Notebook tiền xử lý và phân tích dữ liệu.
   
+ĐỀ TÀI: Xây dựng hệ thống khai thác, xử lý dữ liệu về hoạt động tín dụng tại Ngân hàng thương mại
+Chương 1: Tổng quan BI & mục tiêu dự án
+Chương 2: Nguồn dữ liệu & Quy trình ETL
+Chương 3: Thiết kế kho dữ liệu
+Chương 4: Phân tích & Dashboard
+Chương 5: Kết luận & hướng phát triển
