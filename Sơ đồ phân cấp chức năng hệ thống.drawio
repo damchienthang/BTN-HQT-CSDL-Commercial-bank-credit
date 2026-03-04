@@ -1,0 +1,221 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
+  <diagram name="Trang-1" id="cgyHVnKggRZi1k9itAAt">
+    <mxGraphModel dx="1603" dy="865" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HV34anRuWHbU4qR6zihO-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="&lt;font&gt;HỆ THỐNG KHAI THÁC &amp;amp; XỬ LÝ DỮ LIỆU TÍN DỤNG&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="990" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="240" as="sourcePoint" />
+            <mxPoint x="1730" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="240" as="sourcePoint" />
+            <mxPoint x="480" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="980" y="240" as="sourcePoint" />
+            <mxPoint x="980" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-19" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" target="HV34anRuWHbU4qR6zihO-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1100" y="240" as="sourcePoint" />
+            <mxPoint x="1110" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1230" y="240" as="sourcePoint" />
+            <mxPoint x="1230" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1480" y="240" as="sourcePoint" />
+            <mxPoint x="1480" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;fontFamily=Open Sans;entryX=0.47;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;align=left;spacingLeft=6;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" target="HV34anRuWHbU4qR6zihO-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1730" y="240" as="sourcePoint" />
+            <mxPoint x="1730" y="288" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="1. QUẢN LÝ DANH MỤC" vertex="1">
+          <mxGeometry height="70" width="160" x="400" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="2. QUẢN LÝ KHÁCH HÀNG" vertex="1">
+          <mxGeometry height="70" width="160" x="650" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="3. QUẢN LÝ HỒ SƠ TÍN DỤNG" vertex="1">
+          <mxGeometry height="70" width="180" x="900" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="4. QUẢN LÝ KHOẢN VAY" vertex="1">
+          <mxGeometry height="70" width="160" x="1160" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="5. QUẢN LÝ THANH TOÁN" vertex="1">
+          <mxGeometry height="70" width="160" x="1410" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="6. BÁO CÁO &amp;amp; PHÂN TÍCH" vertex="1">
+          <mxGeometry height="70" width="150" x="1650" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-24" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;align=left;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" target="HV34anRuWHbU4qR6zihO-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="730" y="240" as="sourcePoint" />
+            <mxPoint x="1110" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-26" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;whiteSpace=wrap;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="350" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-27" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="350" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="1.1 Quản lý Grade" vertex="1">
+          <mxGeometry height="70" width="160" x="400" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="1.2 Quản lý purpose" vertex="1">
+          <mxGeometry height="70" width="160" x="400" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-31" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="350" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="1.3 Quản lý loan_status" vertex="1">
+          <mxGeometry height="70" width="160" x="400" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-40" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;whiteSpace=wrap;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="600" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-44" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="850" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="3.1 Quản lý FICO" vertex="1">
+          <mxGeometry height="70" width="180" x="900" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="3.2 Lịch sử tín dụng" vertex="1">
+          <mxGeometry height="70" width="180" x="900" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-47" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="850" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="3.3 Quản lý tài khoản" vertex="1">
+          <mxGeometry height="70" width="180" x="900" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-50" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="850" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-52" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="1110" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="4.1 Tạo khoản vay" vertex="1">
+          <mxGeometry height="70" width="160" x="1160" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="4.2 Cập nhật trạng thái khoản vay" vertex="1">
+          <mxGeometry height="70" width="160" x="1160" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-80" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="1110" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-81" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="1360" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-82" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="1600" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-65" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="1360" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="5.1 Ghi nhận trạng thái" vertex="1">
+          <mxGeometry height="70" width="160" x="1410" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="5.2 Theo dõi dư nợ" vertex="1">
+          <mxGeometry height="70" width="160" x="1410" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-33" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="600" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="2.1 Tiếp nhận khách hàng" vertex="1">
+          <mxGeometry height="70" width="160" x="650" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="2.2 Cập nhật thông tin" vertex="1">
+          <mxGeometry height="70" width="160" x="650" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-83" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="850" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="3.4 Phân tích tài chính" vertex="1">
+          <mxGeometry height="70" width="180" x="900" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=east;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="1.4 Quản lý location" vertex="1">
+          <mxGeometry height="70" width="160" x="400" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-86" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="350" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-87" connectable="0" parent="1" style="group;align=left;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="270" width="230" x="1600" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-88" parent="HV34anRuWHbU4qR6zihO-87" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-89" parent="HV34anRuWHbU4qR6zihO-87" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="6.4 Báo cáo theo State" vertex="1">
+          <mxGeometry height="70" width="150" x="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-90" parent="HV34anRuWHbU4qR6zihO-87" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="6.5 Phân tích rủi ro tín dung" vertex="1">
+          <mxGeometry height="70" width="150" x="50" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-91" parent="HV34anRuWHbU4qR6zihO-87" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-92" parent="HV34anRuWHbU4qR6zihO-87" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="6.6 Dashboard quản trị" vertex="1">
+          <mxGeometry height="70" width="150" x="50" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-71" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="1600" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="6.1 Báo cáo theo Grade" vertex="1">
+          <mxGeometry height="70" width="150" x="1650" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="6.2 Báo cáo theo Purpose" vertex="1">
+          <mxGeometry height="70" width="150" x="1650" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-74" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="1600" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="6.3 Báo cáo theo loan_status" vertex="1">
+          <mxGeometry height="70" width="150" x="1650" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-94" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="1600" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="2.3 Tra cứu hồ sơ&amp;nbsp;" vertex="1">
+          <mxGeometry height="70" width="160" x="650" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-99" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="600" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="4.3 Theo dõi thông tin vay" vertex="1">
+          <mxGeometry height="70" width="160" x="1160" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-101" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="1110" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fontSize=15;fontFamily=Open Sans;align=left;spacingLeft=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="5.3 Xử lý nợ xấu" vertex="1">
+          <mxGeometry height="70" width="160" x="1410" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="HV34anRuWHbU4qR6zihO-103" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;spacingLeft=6;fontSize=15;fontStyle=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="1360" y="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
